@@ -7,5 +7,15 @@ public class Github {
 	public static void main(String[] args) {
 		System.out.println("New repo has been deleted"); 
 	}
+	
+		public void creatNewGit() {
+			System.out.println("task created");
+			
+		}
+		
+	
+	
+		
+	}
 
-}
+
